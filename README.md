@@ -2,7 +2,7 @@
 - 👀 I’m interested in data sciences
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on computer sciences
-- 📫 How to reach me shamimmdoe43@gmai
+- 📫 How to reach me shamimmdoe43@gmail.com
 
 <!---
 shamie25/shamie25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
